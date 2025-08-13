@@ -5,7 +5,7 @@ h1{
 }
 
 body{
-    background-color: rgb(23, 22, 22);
+    background-color: rgb(7, 7, 7);
 }
 .oi{
     text-align: center;
@@ -17,7 +17,7 @@ body{
     justify-content: center;
 
     /* Adiciona um espaço entre as imagens, se necessário */
-    gap: 20px;
+    gap: 10px;
 }
 
 /* Opcional: Estilos para as imagens */
@@ -33,6 +33,24 @@ body{
 }
 /* Centralizando o botão dentro de sua própria div */
 
-.tf{
+.pt{
     text-align: center;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+body {
+    background-image: url(oo.gif) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
 }
