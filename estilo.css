@@ -1,7 +1,7 @@
 h1{
-    color: rgb(240, 3, 3);
     text-align: center;
     font-size:50px ;
+    background: linear-gradient(90deg, #4d4c4c, #cacccc);
 }
 
 body{
@@ -66,7 +66,7 @@ body {
   align-items: center;
   flex-direction: column;
   z-index: 9999;
-  background: linear-gradient(-45deg, #4e4f51, #1a1d23, #4b4b4c, #d6dddf);
+  background: linear-gradient(-45deg, #4e4f51, #515152, #ebebee, #606161);
   background-size: 400% 400%;
   animation: gradientMove 6s ease infinite, fadeOut 2s ease 4s forwards;
 }
@@ -78,7 +78,7 @@ body {
 
 #intro h4 {
   font-size:3.5rem;
-  background: linear-gradient(90deg, #0b0b0b, #3b3c3c);
+  background: linear-gradient(90deg, #0b0b0b, #eef0f0);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 900;
